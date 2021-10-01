@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "keycloak.server",
+      "type": "org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties",
+      "sourceType": "org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties"
+    },
+    {
+      "name": "keycloak.server.admin-user",
+      "type": "org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties$AdminUser",
+      "sourceType": "org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties",
+      "sourceMethod": "getAdminUser()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "keycloak.server.admin-user.password",
+      "type": "java.lang.String",
+      "sourceType": "org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties$AdminUser"
+    },
+    {
+      "name": "keycloak.server.admin-user.username",
+      "type": "java.lang.String",
+      "sourceType": "org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties$AdminUser"
+    },
+    {
+      "name": "keycloak.server.context-path",
+      "type": "java.lang.String",
+      "sourceType": "org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties"
+    },
+    {
+      "name": "keycloak.server.realm-import-file",
+      "type": "java.lang.String",
+      "sourceType": "org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties"
+    }
+  ],
+  "hints": []
+}

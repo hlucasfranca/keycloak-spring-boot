@@ -1,0 +1,21 @@
+org/istio/jwtsecuritytokenservice/config/RegularJsonConfigProviderFactory.java
+ org.istio.jwtsecuritytokenservice.config.RegularJsonConfigProviderFactory
+org/istio/jwtsecuritytokenservice/config/KeycloakServerProperties.java
+ org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties
+ org.istio.jwtsecuritytokenservice.config.KeycloakServerProperties$AdminUser
+org/istio/jwtsecuritytokenservice/config/SessionServletFilter.java
+ org.istio.jwtsecuritytokenservice.config.SessionServletFilter
+ org.istio.jwtsecuritytokenservice.config.SessionServletFilter$1
+ org.istio.jwtsecuritytokenservice.config.SessionServletFilter$2
+org/istio/jwtsecuritytokenservice/JWTAuthorizationServerApp.java
+ org.istio.jwtsecuritytokenservice.JWTAuthorizationServerApp
+org/istio/jwtsecuritytokenservice/config/EmbeddedKeycloakConfig.java
+ org.istio.jwtsecuritytokenservice.config.EmbeddedKeycloakConfig
+ org.istio.jwtsecuritytokenservice.config.EmbeddedKeycloakConfig$1
+org/istio/jwtsecuritytokenservice/config/SimplePlatformProvider.java
+ org.istio.jwtsecuritytokenservice.config.SimplePlatformProvider
+ org.istio.jwtsecuritytokenservice.config.SimplePlatformProvider$1
+org/istio/jwtsecuritytokenservice/config/EmbeddedKeycloakApplication.java
+ org.istio.jwtsecuritytokenservice.config.EmbeddedKeycloakApplication
+org/istio/jwtsecuritytokenservice/config/Resteasy3Provider.java
+ org.istio.jwtsecuritytokenservice.config.Resteasy3Provider
